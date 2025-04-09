@@ -30,7 +30,7 @@ To work with the dataset and associated scripts, the following environment is re
 
 The dataset contains the following components:
 
-- **martian_dust.jpg**: Images simulating different Martian dust conditions.
+- **SDS.zip**: Different Martian dust images.
 - **README.md**: This documentation file.
 
 
