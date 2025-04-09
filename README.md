@@ -33,5 +33,5 @@ The dataset contains the following components:
 - **SDS.zip**: Different Martian dust images.
 - **README.md**: This documentation file.
 
-## The SDS datasets used in this work are processed and produced by Ground Research and Application System (GRAS) of China's Lunar and Planetary Exploration Program, they can be applied and downloaded at \url{http://moon.bao.ac.cn/}.
+## The SDS datasets used in this work are processed and produced by Ground Research and Application System (GRAS) of China's Lunar and Planetary Exploration Program, they can be applied and downloaded at {http://moon.bao.ac.cn/}.
 
